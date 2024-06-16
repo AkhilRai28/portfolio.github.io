@@ -101,7 +101,7 @@ Percentage: 93.6
   Organized and coordinated the Startup Expo 2024 at SVNIT Surat, showcasing innovative student startups and projects. Facilitated workshops and sessions on entrepreneurship, business management, and startup strategies, contributing to participants' business acumen. Actively managed media-related activities to ensure proper coverage and promotion of the event.
 
 - **Drishti (Technical Club) Website Developer**  
-  Designed and developed the official website for Drishti, the technical club of SVNIT Surat, using JavaScript, HTML, and CSS. Implemented dynamic features and real-time updates to enhance user engagement and experience. Optimized website performance using data structures and algorithms such as Binary Trees, Graphs, Dynamic Programming, Sorting Algorithms, Search Algorithms, Hashing, Recursion, and Linked Lists. Managed and updated website content, ensuring seamless user interaction and navigation, and implemented backend services using Node.js with interactive front-end components developed using React.js and Angular.js.
+  Designed and developed a website in Drishti, the technical club of SVNIT Surat, using JavaScript, HTML, and CSS. Implemented dynamic features and real-time updates to enhance user engagement and experience. Optimized website performance using data structures and algorithms such as Binary Trees, Graphs, Dynamic Programming, Sorting Algorithms, Search Algorithms, Hashing, Recursion, and Linked Lists. Managed and updated website content, ensuring seamless user interaction and navigation, and implemented backend services using Node.js with interactive front-end components developed using React.js and Angular.js.
 
 ## Positions of Responsibility
 - **Clubs Internation Competitior**  
